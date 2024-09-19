@@ -1,5 +1,5 @@
 # Broad-Market-Indices-v2
-This gives you historical prices of an NSE share. It is different from Share-Market-Prices-v2 because:
+This gives you historical prices of an NSE share. It is different from Broad-Market-Indices-v1 because:
 - More functionalities
    - Log In
    - Sign Up
